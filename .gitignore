@@ -1,0 +1,20 @@
+# Binaries and build artifacts
+backend/server
+backend/server.exe
+backend/*.exe
+frontend/dist
+frontend/node_modules
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Dependencies
+node_modules/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
